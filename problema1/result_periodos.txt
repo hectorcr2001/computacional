@@ -1,0 +1,36 @@
+0  periodo medio 91.65075677071019 
+ periodo real:  87.892 
+ proporción:  1.0427656302133321 
+
+1  periodo medio 217.2901544760817 
+ periodo real:  224.548 
+ proporción:  0.9676779774305795 
+
+2  periodo medio 342.7631987095945 
+ periodo real:  365.0 
+ proporción:  0.9390772567386151 
+
+3  periodo medio 599.787130094916 
+ periodo real:  686.5285 
+ proporción:  0.8736521937471147 
+
+4  periodo medio 0.0 
+ periodo real:  4329.63 
+ proporción:  0.0 
+
+5  periodo medio nan 
+ periodo real:  10752.17 
+ proporción:  nan 
+
+6  periodo medio nan 
+ periodo real:  30663.65 
+ proporción:  nan 
+
+7  periodo medio nan 
+ periodo real:  60148.35 
+ proporción:  nan 
+
+8  periodo medio nan 
+ periodo real:  90717.09999999999 
+ proporción:  nan 
+
